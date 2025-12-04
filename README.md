@@ -1,2 +1,1 @@
-#demo
-echo "Hello"
+First GIT action. Is it?
