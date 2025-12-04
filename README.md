@@ -1,1 +1,1 @@
-First GIT action. Is it?
+First GIT command. Is it?
